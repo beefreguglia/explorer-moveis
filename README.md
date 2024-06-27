@@ -10,7 +10,7 @@ Explorer Móveis
 
 ## Sobre
 
-Acesse: [Link](beefreguglia.github.io/explorer-project01/)
+Acesse: [Link](beefreguglia.github.io/explorer-moveis/)
 
 O **Explorer Móveis** é uma página construída durante o curso Explorer da Rocketseat.
 ---
