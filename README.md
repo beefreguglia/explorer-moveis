@@ -8,7 +8,7 @@ Explorer Móveis
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 
-## 🏗️ Sobre
+## Sobre
 
 Acesse: beefreguglia.github.io/explorer-project01/
 
