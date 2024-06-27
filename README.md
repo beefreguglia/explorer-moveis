@@ -10,7 +10,7 @@ Explorer Móveis
 
 ## Sobre
 
-Acesse: [Link](beefreguglia.github.io/explorer-moveis/)
+Acesse: [[Link](beefreguglia.github.io/explorer-moveis/)](https://beefreguglia.github.io/explorer-moveis/)
 
 O **Explorer Móveis** é uma página construída durante o curso Explorer da Rocketseat. Nela utilizamos tags importantes para a criação de HTML e conhecimentos básicos de CSS
 
